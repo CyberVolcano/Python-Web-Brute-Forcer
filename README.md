@@ -7,7 +7,7 @@ This is a guide to the Python Web Brute Forcing tool I made:
 
 To run this program, it requires the following:
 
-## Program Flags | What They Do
+Program Flags | What They Do
 --------------|--------------
 --users	  | A file containing a set of values to be brute forced with (ex. admin, administrator, root...)
 --passwords	  | A file containing a set of values to be brute forced with (ex. admin, administrator, root...)
