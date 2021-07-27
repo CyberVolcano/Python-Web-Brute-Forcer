@@ -18,7 +18,7 @@ Program Flags | What They Do
 
 #### Q: How do I get the request headers & request payload?
 #### A: Opening up inspect element and looking at the web request allows you to copy the request headers and data
- ![[Pasted image 20210726150353.png]]
+ ![[https://github.com/CyberVolcano/Python-Web-Brute-Forcer/blob/main/screenshots/Pasted%20image%2020210726150353.png]]
  
  #### Q: How does this program work?
 #### A: First it takes the request headers from a post or get request, then it parses them into a dictionary and which then gets sent off with the request library
