@@ -10,7 +10,7 @@ To run this program, it requires the following:
 Program Flags | What They Do
 --------------|--------------
 --users	  | A file containing a set of values to be brute forced with (ex. admin, administrator, root...)
---passwords	  | A file containing a set of values to be brute forced with (ex. admin, administrator, root...)
+--passwords	  | A file containing a set of values to be brute forced with (ex. password, 12345678, toor...)
 --url		  | The URL you are sending your attack to (ex. https://www.example.com/)
 --payload 	  | The data that is sent in the request along with brackets to indicate what to replace (ex. "username=[]&password=pass")
 --request 	  | A file containing the web request headers
